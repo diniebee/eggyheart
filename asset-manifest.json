@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/eggyheart/static/css/main.964fdded.css",
-    "main.js": "/eggyheart/static/js/main.04ac359a.js",
+    "main.js": "/eggyheart/static/js/main.6db39e05.js",
+    "static/media/eggyheart_logo.png": "/eggyheart/static/media/eggyheart_logo.e309367be89795ffa586.png",
     "index.html": "/eggyheart/index.html",
     "main.964fdded.css.map": "/eggyheart/static/css/main.964fdded.css.map",
-    "main.04ac359a.js.map": "/eggyheart/static/js/main.04ac359a.js.map"
+    "main.6db39e05.js.map": "/eggyheart/static/js/main.6db39e05.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.04ac359a.js"
+    "static/js/main.6db39e05.js"
   ]
 }
