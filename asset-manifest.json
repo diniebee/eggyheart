@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%3Chttps://diniebee.github.io/eggyheart%3E/static/css/main.964fdded.css",
-    "main.js": "/%3Chttps://diniebee.github.io/eggyheart%3E/static/js/main.04ac359a.js",
-    "index.html": "/%3Chttps://diniebee.github.io/eggyheart%3E/index.html",
-    "main.964fdded.css.map": "/%3Chttps://diniebee.github.io/eggyheart%3E/static/css/main.964fdded.css.map",
-    "main.04ac359a.js.map": "/%3Chttps://diniebee.github.io/eggyheart%3E/static/js/main.04ac359a.js.map"
+    "main.css": "/eggyheart/static/css/main.964fdded.css",
+    "main.js": "/eggyheart/static/js/main.04ac359a.js",
+    "index.html": "/eggyheart/index.html",
+    "main.964fdded.css.map": "/eggyheart/static/css/main.964fdded.css.map",
+    "main.04ac359a.js.map": "/eggyheart/static/js/main.04ac359a.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
